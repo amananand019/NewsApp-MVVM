@@ -2,7 +2,7 @@ package com.devil.premises.newsapp.db
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.devil.premises.newsapp.Article
+import com.devil.premises.newsapp.models.Article
 
 @Dao
 interface ArticleDao {
